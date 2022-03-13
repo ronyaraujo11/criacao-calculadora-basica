@@ -23,8 +23,7 @@ public class Calculadora {
 		System.out.println("sub " + subtracao);
 		System.out.println("mult " + multiplicacao);
 		System.out.println("div " + divisao);
-		
-			
+				
 
 	}
 	
