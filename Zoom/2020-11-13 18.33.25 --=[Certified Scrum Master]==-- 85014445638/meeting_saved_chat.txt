@@ -1,119 +1,0 @@
-08:57:25	 From  Carlos Daniel Sampaio : fala aí galera, se houver alguma dinâmica em grupo, eu não vou conseguir participar
-08:57:35	 From  Carlos Daniel Sampaio : mas só no início
-08:57:59	 From  Carlos Daniel Sampaio : marcaram uma entrevista de emprego pra hoje às 9, deve ir até mais ou menos 11h
-08:58:34	 From  Rony Araújo : Boa sorte Carlos 
-08:59:40	 From  Andréia Dias : Bom dia! :)
-09:00:11	 From  Flávia Costa : Boa sorte!!
-09:00:35	 From  Carlos Daniel Sampaio : bom dia!
-09:00:39	 From  Carlos Daniel Sampaio : obrigado!
-09:02:16	 From  Claudia Malta Santos : Bom dia! Sucesso na entrevista Carlos
-09:39:50	 From  diego.silva : RSV1220
-10:50:50	 From  Marcos Garrido K21 USA : mon programming
-10:50:54	 From  Marcos Garrido K21 USA : mob
-11:25:26	 From  Marcos Garrido K21 USA :                                     Merit Money
-11:30:50	 From  Marcos Garrido K21 USA : wecare
-11:31:59	 From  Polyanna P. Gomes Fabris : Essa?https://www.sejawecare.com.br/
-11:54:03	 From  Natália Calixto : Pode ter infinitos, desde que sejam priorizados
-11:54:04	 From  Polyanna P. Gomes Fabris : Não existe 
-11:54:11	 From  Claudia Malta Santos : depende do tamanho do time e da sua maturidade
-11:54:12	 From  Letícia de Souza Gusatti : depende do time
-11:54:13	 From  Gabriel Ferreira : infinitos desde que nao duplicados
-11:54:13	 From  Sandra Kremer : acho que desde que façam sentido para a entrega do produto
-11:54:14	 From  Mendel Pencak :  que o cliente quiser
-11:54:16	 From  Amanda Garcez : depende do projeto, equipe...
-11:54:20	 From  luciano.gazai : Depende
-11:54:21	 From  Gabriel Pinheiro Campos : depende do produto
-11:54:23	 From  Rony Araújo : conforme a necessidade e prioridade
-11:54:26	 From  Andréia Dias : muitos                                                                               
-11:54:28	 From  Sarah Branco : o suficiente para que a primeira Sprint seja colocad em desevvolvimento
-11:54:28	 From  Flávia Costa : depende do produto
-12:23:19	 From  Polyanna P. Gomes Fabris : Garrido depois manda uma lista de empresas que são ágeis no Brasil, pls hehe
-13:40:25	 From  Cintia Lima : Também gostaria de saber
-13:55:15	 From  Flávia Azevedo : https://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf
-13:55:26	 From  Carlos Daniel Sampaio : valeu flávia!
-13:56:08	 From  Mário Hector Ferreira : obrigado!!
-14:12:22	 From  Sarah Branco : meu favorito é esse mito "já somos ágeis"
-14:12:52	 From  jessica.marques : professor pode disponibilizar ess link?
-14:13:08	 From  jessica.marques : ahh blz
-14:17:07	 From  Polyanna P. Gomes Fabris : 1 - Mito
-14:25:46	 From  Polyanna P. Gomes Fabris : 1 - Mito 2 - Fato3 - Mito (Apenas)4 - Mito5 - Mito6 - Fato7 - Mito8 - Mito (qdo se prova desnecessário)9- Mito (Teria que ser exclusivo nao necessáriamente trabalhe o dia inteiro)10 - Fato11 - Mito12 - Mito13 - Fato14 - Fato15 - Mito (mas é realidade)
-14:38:29	 From  Polyanna P. Gomes Fabris : 1 - Mito (Precisa entender o seu papel dentro do Scrum)2 - Fato3 - Mito (Tem que comunicar a todos, a palavra "apenas" gera uma confusão)4 - Mito (É um dos papeis...todos são importantes)5 - Mito (O time se envolve na escolha)6 - Fato7 - Mito (O time é autoorganizado e gerenciavel)8 - Mito (qdo se prova desnecessário e começa a difundir para a organização)9- Mito (Teria que ser exclusivo não necessariamente trabalhe o dia inteiro/melhor termo dedicado-exclusivo)????10 - Fato 11 - Mito (Todo time deve se envolver)12 - Mito (Não necessariamente precisa ser técnico/desenvolvedor) Precisa de perfil e conhecimento do Scrum13 - Fato14 - Fato15 - Mito (mas é realidade)
-14:39:07	 From  Gabriel Pinheiro Campos : Mas é realidade haha
-14:47:05	 From  Gabriel Ferreira : 100% amazon
-14:50:31	 From  Diego Rodrigues : https://www.cnnbrasil.com.br/viagem/2020/09/13/chances-de-pegar-covid-19-em-aviao-sao-menores-do-que-se-pensa-dizem-cientistas
-15:02:01	 From  Marcos Garrido K21 USA : https://knowledge21.com.br/treinamentos/rh-agil/
-15:15:52	 From  Polyanna P. Gomes Fabris : Papel de Scrum Exigido em uma vaga
-15:15:54	 From  Polyanna P. Gomes Fabris : We are looking for a Full Stack developer to support a Database-centric Web Application, hosted in AWS EC2. The ideal candidate will have experience in both Front and Backend (Full Stack) and possess strong JavaScript skills.ExperienceDevelopment experience, ideally with a support background, and experience with a product development lifecycle.Must have experience working directly with non-dev, non-technical usersAbility to work within US time zonesMinimumJavascriptAWS EC2,RedisMySqlNodejsSPA applicationsPlusesAWS CodeDeploy, CodePipelineExpress or similarVueJs (or React)Sequelize (or similar ORM)Bootstrap
-15:16:34	 From  Polyanna P. Gomes Fabris : https://www.linkedin.com/jobs/view/2197020514/?refId=%2FoA5lVeYHnWZk2RmiM1KQA%3D%3D&trackingId=pkYEOJe1spUk0sOL4Cqrvw%3D%3D
-15:16:54	 From  Gabriel Ferreira : nossa...
-15:35:58	 From  Claudia Malta Santos : Natália, que coisa linda!!!!
-15:38:34	 From  Gabriel Ferreira : https://knowledge21.com.br/blog/polemica-o-melhor-product-owner-nao-e-o-cliente/
-15:47:21	 From  Jose Carlos : alguém pode digitar?
-15:47:24	 From  Jose Carlos : por favor
-15:47:32	 From  Kaio Queiroz : Vida longa;Estabilidade;Times pequenos (10 pessoas ou menos)Praticam melhoria continuaTrabalham em ciclos curtosMultidisciplinares (sem dependências externas)
-15:47:33	 From  Polyanna P. Gomes Fabris : estabilidadetimes pequenos 10 ou menospraticam melhoria continua tem ciclo curtovida longapraticam melhoria continua
-15:47:44	 From  Jose Carlos : Obrigado!
-15:50:44	 From  Kaio Queiroz : takeushi e nonaka,  the new new product development game
-16:20:15	 From  Sarah Branco : já fiz a prova :)
-16:24:19	 From  Iraja Oliveira : E aí como foi?
-16:24:58	 From  Sarah Branco : acertei 48
-16:25:34	 From  Rony Araújo : Foi Tranquilo ?
-16:25:58	 From  Sarah Branco : sim, tudo q falamos aqui, incluindo as pegadinhas
-16:26:06	 From  Rony Araújo : rsrsrsr
-16:26:10	 From  Rony Araújo : Bom saber
-16:27:01	 From  Carlos Daniel Sampaio : boa!!!
-16:27:03	 From  Carlos Daniel Sampaio : parabéns!
-16:27:21	 From  Rony Araújo : Parabéns viu !!!!!
-16:27:25	 From  Claudia Malta Santos : eita....já fez. Parabéns!
-16:27:37	 From  Iraja Oliveira : Parabéns Sarah!!!
-16:27:42	 From  Bruno Iecker : Parabéns!
-16:27:44	 From  Flávia Costa : Parabéns!!
-16:27:48	 From  Sandra Kremer : Parabéns Sarah!! Beirando a excelência :)
-16:28:06	 From  Adriana Lemos : Parabéns!!!!
-16:28:08	 From  Natália Calixto : Uhuu parabéns, Sarah!
-16:28:32	 From  Marcos Garrido K21 USA : https://slice.wbrain.me/#/board/Qjwd6xRnD7PVsyOU
-16:28:36	 From  Gabriel Pinheiro Campos : Parabénsss
-17:14:10	 From  Mendel Pencak : mendel.pencak@gmail.com
-17:14:32	 From  Fernanda Sipriano : eu tbm não recebi (fernanda.sipriano7@gmail.com)
-17:14:35	 From  Claudia Malta Santos : maltaclaudia@yahoo.com.br
-17:14:36	 From  Polyanna P. Gomes Fabris : Poly.pgomes@gmail.com
-17:14:47	 From  Amanda Garcez : amanda.garcez@yahoo.com.br
-17:14:51	 From  Gabriel Pinheiro Campos : gabrieldelpinheiro@gmail.com
-17:15:22	 From  Rony Araújo : ronyaraujo11@yahoo.com.br
-17:15:24	 From  Andréia Dias : andreiadiasmesquita@gmail.com
-17:15:50	 From  Natália Calixto : naticalixto@gmail.com
-17:16:04	 From  Carlos Daniel Sampaio : carlosdanielmsa@yahoo.com.br
-17:16:08	 From  Bruno Iecker : bruno.iecker@gmail.com
-17:16:17	 From  Diego Rodrigues : diego-engenharia@hotmail.com
-17:16:17	 From  Mário Hector Ferreira : mario.hector@icloud.com
-17:16:35	 From  jessica.marques : jessica.marques@yduqs.com.br
-17:16:45	 From  Adriana Lemos : adriana.camposlemos@gmail.com
-17:16:50	 From  Marcos Garrido K21 USA : scholar.google.com
-17:17:26	 From  Marcos Garrido K21 USA : https://erl.ucc.edu.gh/dspace/bitstream/123456789/2989/1/%5BWalther_Ch_Zimmerli%2C__Klaus_Richter%2C__Markus_Holz%28BookZZ.org%29.pdf#page=81
-17:17:46	 From  luciano.gazai : Luciano.ramo@cni.com.br
-17:34:30	 From  Jose Carlos : jcmf.41@gmail.com
-17:36:40	 From  Marcos Garrido K21 USA : https://knowledge21.com.br/simulado-de-scrum-para-a-prova-de-certificacao-da-scrum-alliance-certified-scrummaster/
-17:58:12	 From  Gabriel Ferreira : #chateado
-18:04:27	 From  Gabriel Ferreira : 19/20
-18:05:02	 From  Gabriel Pinheiro Campos : Gabaritamos haha
-18:06:41	 From  Polyanna P. Gomes Fabris : Gabaritamos tbm!!! Uhuu
-18:28:04	 From  jessica.marques : tchau pssoal
-18:28:14	 From  Jose Carlos : https://www.linkedin.com/in/jose-carlos-medeiros-de-farias-junior-27a7b2b2/
-18:28:19	 From  Mário Hector Ferreira : Pessoa obrigado !!
-18:28:21	 From  Carlos Daniel Sampaio : https://www.linkedin.com/in/carlos-daniel-sampaio-910a2470/
-18:28:23	 From  Polyanna P. Gomes Fabris : https://www.linkedin.com/in/polyanna-p-gomes-fabris-tkp-kmp-i-sfpc-sfc-34248923/
-18:28:34	 From  jessica.marques : https://www.linkedin.com/in/jessicamarquesg000/
-18:28:38	 From  Gabriel Ferreira : https://www.linkedin.com/in/gabriellferreira/
-18:28:51	 From  Cintia Lima : www.linkedin.com/in/cintiaspintolima/
-18:29:09	 From  Mendel Pencak : https://LinkedIn.com/in/mendelpencak
-18:29:11	 From  Kaio Queiroz : www.linkedin.com/in/kaioqueiroz
-18:29:14	 From  Natália Calixto : https://www.linkedin.com/in/ncalixto/
-18:29:16	 From  Andréia Dias : https://www.linkedin.com/in/andreiadiasmesquita/
-18:29:33	 From  Amanda Garcez : https://www.linkedin.com/in/amanda-garcez-b41b491b9
-18:29:45	 From  Sarah Branco : https://www.linkedin.com/in/sarahmazzeo/
-18:29:50	 From  Mário Hector Ferreira : https://www.linkedin.com/in/mariohectorferreira/
-18:29:57	 From  Jonnatas Cabral : https://www.linkedin.com/in/jonnatas-cabral/
-18:30:18	 From  Adriana Lemos : https://www.linkedin.com/in/adriana-campos-lemos-chomentowski
-18:30:47	 From  Flávia Azevedo : www.linkedin.com/in/coachempresarialflaviaazevedo
-18:31:08	 From  Iraja Oliveira : https://www.linkedin.com/in/irajaoliveira/
-18:31:35	 From  Gabriel Pinheiro Campos : linkedin.com/in/gabriel-pinheiro-campos-2a81b7157
